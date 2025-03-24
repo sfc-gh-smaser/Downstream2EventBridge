@@ -13,5 +13,5 @@ It uses:
 * It is parameterized, neatly written in the Notebooks and slightly documented.
 
 # Notebooks:
-* Notebook #1 creates the UDF to deliver Events to EventBridge
+* Notebook #1 creates the UDF to deliver Events to EventBridge (two versions, second one accommodates refreshing AWS Token for long-running jobs)
 * Notebook #2 creates the change capture registration and configuration
